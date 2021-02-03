@@ -1,5 +1,5 @@
-  ### Hello 👋, I'm Tsiry RAZANAKOTO!  
-  I'm a Front-End Developer from Madagascar
+  # Hello 👋, I'm Tsiry RAZANAKOTO!  
+  I'm a Front-End Developer from *Madagascar*
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsiryjl&show_icons=true&theme=radical)](https://github.com/tsiryjl)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsiryjl&theme=radical&layout=compact)](https://github.com/tsiryjl)
@@ -11,4 +11,4 @@
 ![alt text](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![alt text](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) 
 ![alt text](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![alt text](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### My Portfolio => https://tsiryjl.netlify.app
+### [About Me](https://tsiryjl.netlify.app)
