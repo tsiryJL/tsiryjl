@@ -8,7 +8,7 @@ Experienced front-end web developer, with knowledge of ergonomics in order to re
  
 ### My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsiryjl&show_icons=true&theme=radical)](https://github.com/tsiryjl)
-### Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsiryjl&theme=radical&layout=compact)](https://github.com/tsiryjl)
 
 ### Languages and Tools: <br>
