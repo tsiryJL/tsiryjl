@@ -3,6 +3,9 @@
 ![alt text](https://github.com/tsiryjl/tsiryjl/blob/master/imgBackground.png?raw=true)
  I'm a Front-End Developer from *Madagascar*
  
+### Description
+Experienced front-end web developer, with knowledge of ergonomics in order to reduce the efforts of users for navigation within the application. This includes designing interfaces that create the best possible connections between the user and the application with features that optimize the path to be taken to achieve a goal.
+ 
 ### My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsiryjl&show_icons=true&theme=radical)](https://github.com/tsiryjl)
 ### Languages
