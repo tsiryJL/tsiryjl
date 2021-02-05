@@ -18,4 +18,7 @@ Experienced front-end web developer, with knowledge of ergonomics in order to re
 ![alt text](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![alt text](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) 
 ![alt text](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![alt text](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### [About Me](https://tsiryjl.netlify.app)
+### Other
+- [Portfolio](https://tsiryjl.netlify.app)<br>
+- [Coding Game](https://www.codingame.com/profile/6b98548ed6dd867d1845e862329435395346463)<br>
+- [LinkedIn](https://www.linkedin.com/in/tsiry-razanakoto-b035a9170/)<br>
