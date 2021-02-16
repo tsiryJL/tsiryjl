@@ -22,6 +22,7 @@ Experienced front-end web developer, with knowledge of ergonomics in order to re
 #### - Css Framework : 
 ![alt text](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![alt text](https://img.shields.io/badge/tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![alt text](https://img.shields.io/badge/materialize_css-eb7077?style=for-the-badge&logo=materializecss&logoColor=white) 
 
 #### - Host :
 ![alt text](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
