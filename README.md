@@ -31,8 +31,9 @@ Experienced front-end web developer, with knowledge of ergonomics in order to re
 
 #### - Package Managers & Build tools:
 ![alt text](https://img.shields.io/badge/yarn-211748?style=for-the-badge&logo=yarn&logoColor=white)
-![alt text](https://img.shields.io/badge/npm-CC0000?style=for-the-badge&logo=npm&logoColor=white)
+![alt text](https://img.shields.io/badge/npm-820000?style=for-the-badge&logo=npm&logoColor=white)
 ![alt text](https://img.shields.io/badge/webpack-0ec0d2?style=for-the-badge&logo=webpack&logoColor=white)
+![alt text](https://img.shields.io/badge/gulp-CC0000?style=for-the-badge&logo=gulp&logoColor=white)
 
 ### Other
 - [Portfolio](https://tsiryjl.netlify.app)<br>
