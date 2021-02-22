@@ -34,6 +34,7 @@ Experienced front-end web developer, with knowledge of ergonomics in order to re
 ![alt text](https://img.shields.io/badge/npm-820000?style=for-the-badge&logo=npm&logoColor=white)
 ![alt text](https://img.shields.io/badge/webpack-0ec0d2?style=for-the-badge&logo=webpack&logoColor=white)
 ![alt text](https://img.shields.io/badge/gulp-CC0000?style=for-the-badge&logo=gulp&logoColor=white)
+![alt text](https://img.shields.io/badge/RubyGem-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
 
 ### Other
 - [Portfolio](https://tsiryjl.netlify.app)<br>
